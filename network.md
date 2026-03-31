@@ -41,7 +41,7 @@ En esencia, las redes son las autopistas del mundo digital, las que permiten que
 
 ### ¿Por Qué Son Importantes las Direcciones?
 
-Para que un dispositivo pueda enviar datos a otro, necesita saber *dónde* se encuentra ese dispositivo, es decir, necesita conocer su **dirección**. Esto será el tema del próximo episodio.
+Para que un dispositivo pueda enviar datos a otro, necesita saber *dónde* se encuentra ese dispositivo, es decir, necesita conocer su **dirección**.
 ![Direcciones](img/network-05.png)
 
 > Contenido generado con Claude 4.6 Sonnet. Imágenes generadas con Gemini 3 Pro.
